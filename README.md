@@ -1,4 +1,4 @@
-# Latchet (Laravel 4 Package)
+# Latchet (Laravel 5 Package)
 
 ##Important
 
