@@ -1,6 +1,6 @@
 {
     "name": "sidney/latchet",
-    "description": "WebSockets with Laravel 4",
+    "description": "WebSockets with Laravel 5",
     "authors": [
         {
             "name": "Sidney Widmer",
